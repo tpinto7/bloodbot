@@ -1,5 +1,4 @@
 # bloodbot
-🏆 DeltaHacks VI Hypercare Winner (Best Health hack)
 
 ![Blood Bot User Interface](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/923/847/datas/original.png)
 
