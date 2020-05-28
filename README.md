@@ -5,7 +5,7 @@
 
 This repository contains all source code and dependencies for The Blood Bot.
 
-The Blood Bot examines visual input to estimate the blood lost by a patient during a surgery. It 
+The Blood Bot examines visual input to estimate the blood lost by a patient during a surgery.
 Through analyzing images pixel by pixel, a concentration of blood is estimated based on several factors, including the proportion of red versus
 white pixels and the saturation and hues of the red colours.
 
